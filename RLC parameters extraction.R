@@ -1,6 +1,7 @@
 ###############################################
 ### CLEAN RLC (RAPID LIGHT CURVE) PIPELINE  ###
-### For dataset with Unique ID, PAR, ETR    ###
+###  For dataset with Unique ID, PAR, ETR   ###
+###     Output: RLC parameters in csv.      ###
 ###############################################
 
 setwd("/Users/riversung/Library/Mobile Documents/com~apple~CloudDocs/River's documents/NTU/Vianney's Lab/R/River_masters_project")
